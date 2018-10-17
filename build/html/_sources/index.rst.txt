@@ -1,20 +1,20 @@
-.. Robotics-GUI documentation master file, created by
-   sphinx-quickstart on Tue Oct 16 22:04:55 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Robotics-GUI's documentation!
-========================================
-
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+  :maxdepth: 2
+  intro
+  installation
 
+=====================================
+Welcome to the RoboHUD documentation!
+=====================================
+*RoboHUD is a GUI created for the King's Legacy robotics team for use in the RoboCup international competition that takes place yearly*
 
+If you want to get straight to the code, it is available on `GitHub <https://github.com/finchiedev/robotics-gui>`_
 
-Indices and tables
-==================
+This documentation aims to cover the following:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* What RoboHUD is
+* How to install all of the relevant tools in order to develop the GUI
+* How the code works
+
+If you have any questions at any point, feel free to contact Angus F via `email <mailto://1012752@student.ccgs.wa.edu.au>`_, in the CCGS Robotics Discord server or in TG11 most days after school.
+You can also have a conversation with Mr. Nolan or one of the senior members for some help.

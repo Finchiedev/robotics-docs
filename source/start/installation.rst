@@ -46,6 +46,7 @@ Installation breakdown
 Above you were shown the basic workflow for installing an Electron application. Let's break it down.
 
 The first part of the code uses Git: ::
+
     git clone <project url>.git
 
 This gives your command line the following instructions:

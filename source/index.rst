@@ -24,6 +24,7 @@ Documentation tree:
 
    index
    contributing
+   quickstart
 
 
 .. toctree::

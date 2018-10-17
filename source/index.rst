@@ -20,6 +20,15 @@ Documentation tree:
 
 .. toctree::
    :maxdepth: 2
+   :caption: Welcome!
 
-   intro
-   installation
+   index
+   contributing
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting started
+
+   start/intro
+   start/installation

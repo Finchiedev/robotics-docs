@@ -20,7 +20,7 @@ Documentation tree:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Welcome!
+   :caption: Welcome
 
    index
    contributing

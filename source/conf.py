@@ -22,7 +22,6 @@
 project = 'RoboHUD'
 copyright = 'Angus Finch'
 author = 'Angus Finch'
-html_theme = "sphinx_rtd_theme"
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags

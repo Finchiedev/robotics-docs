@@ -33,3 +33,9 @@ Documentation tree:
 
    start/intro
    start/installation
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Code
+
+  code/structure

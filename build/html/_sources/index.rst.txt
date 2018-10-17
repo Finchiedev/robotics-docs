@@ -39,3 +39,4 @@ Documentation tree:
   :caption: Code
 
   code/structure
+  code/main

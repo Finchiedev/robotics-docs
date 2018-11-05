@@ -21,8 +21,7 @@ Documentation tree:
 .. toctree::
    :maxdepth: 2
    :caption: Welcome
-
-   index
+   
    contributing
    quickstart
 

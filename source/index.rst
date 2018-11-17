@@ -21,7 +21,7 @@ Documentation tree:
 .. toctree::
    :maxdepth: 2
    :caption: Welcome
-   
+
    contributing
    quickstart
 
@@ -39,3 +39,4 @@ Documentation tree:
 
   code/structure
   code/main
+  code/talk

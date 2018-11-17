@@ -1,7 +1,6 @@
 ./Main.js
 =========
-Declarations
-^^^^^^^^^^^^
+
 This is the first file that the Electron program runs when you execute **npm start**. Let's go through it, piece by piece. ::
 
     const {
@@ -12,3 +11,5 @@ This is the first file that the Electron program runs when you execute **npm sta
 The purpose of the code above is to make sure that NodeJS knows what Electron is when it starts up. It calls app and BrowserWindow as "constructors", used by NodeJS to integrate packages.
 This is the equivalent of the Python3 code: ::
     import app, BrowserWindow from Electron
+
+The rest of the code sets up a new BrowserWindow with the required specifications, adding listeners to figure out what to do on certain events.

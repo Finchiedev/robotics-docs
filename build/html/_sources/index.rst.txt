@@ -22,7 +22,6 @@ Documentation tree:
    :maxdepth: 2
    :caption: Welcome
 
-   index
    contributing
    quickstart
 
@@ -32,6 +31,7 @@ Documentation tree:
    :caption: Getting started
 
    start/intro
+   start/get-going
    start/installation
 
 .. toctree::
@@ -40,3 +40,4 @@ Documentation tree:
 
   code/structure
   code/main
+  code/talk

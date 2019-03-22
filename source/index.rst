@@ -31,6 +31,7 @@ Documentation tree:
    :caption: Getting started
 
    start/intro
+   start/get-going
    start/installation
 
 .. toctree::

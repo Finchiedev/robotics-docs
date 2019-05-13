@@ -8,11 +8,25 @@ If you **do** need help, please come find Angus Finch, a senior member of the ro
 Installation
 ^^^^^^^^^^^^
 
-First things first, make sure you have installed NodeJS and NPM:
+First things first, you must be using an linux laptop. 
+
+Next, open Terminal by typing ``terminal`` into the search bar.
+
+Next make sure you have installed NodeJS and NPM:
 
 ``node -v && npm -v``
 
-From there, we are able to install the RoboHUD project (make sure that you are in the right directory!):
+Note if this command returns something like:
+
+``Command 'node' not found, but can be installed with:``
+
+``sudo apt install nodejs``
+
+You may install it using:
+
+``sudo apt install nodejs``
+
+From there, we are able to install the RoboHUD project (make sure that you are in the directory you want to work in):
 
 ``git clone https://github.com/CCGSRobotics/RoboHUD.git``
 
@@ -28,7 +42,8 @@ Getting the code on the Pi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Now this is a tricky set of commands, but it is very useful to transfer files to the robot without any internet on the robot.
-Open a new terminal window and SSH into the Pi (remember to change to its wireless network):
+Change to the robot's wireless network, it should look something like ``KingsLegacy``
+Open a new terminal window and SSH into the Pi:
 
 ``ssh pi@192.168.100.1``
 

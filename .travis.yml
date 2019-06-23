@@ -18,5 +18,3 @@ jobs:
         file:
           - test.txt
         draft: true
-        on:
-          tags: true
